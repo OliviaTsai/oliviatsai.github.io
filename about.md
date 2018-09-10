@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+i liek mbb. shoutout to Matt ty amigo 
 
 ### More Information
 
