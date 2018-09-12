@@ -4,12 +4,5 @@ title: About Me
 permalink: /about/
 ---
 
-i liek mbb. shoutout to Matt ty amigo 
+Hello my name is Olivia and I like to design stuff. 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
